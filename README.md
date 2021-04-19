@@ -4,7 +4,7 @@ Data and code for FLAIRS'34 paper "Evaluation of Unsupervised Entity and Event S
 ## Data
 For the raw data, please refer to [The New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/LDC2008T19) and [Semantic Scholar Corpus](http://boston.lti.cs.cmu.edu/appendices/WWW2016/).
 
-The pesudo annotation we used to report the numbers on our paper is avaliable at [entity-event-pseudo-annotation](https://figshare.com/articles/dataset/entity-event-pseudo-annotation/14337323?file=27362669).  
+The pesudo annotation we used to report the numbers on our paper is **avaliable** at [figshare link:entity-event-pseudo-annotation](https://figshare.com/articles/dataset/entity-event-pseudo-annotation/14337323?file=27362669). 
 The annotation is formated in `jsonlines`, so each line represent a document with its pesudo salient entities and events.
 
 For example, for document `#1013869` in NYT, 
