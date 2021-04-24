@@ -1,0 +1,2746 @@
+[
+  {
+    "sent": "Don\u2019t worry.",
+    "NPs": [],
+    "NP_lists": [],
+    "NP_subtrees": []
+  },
+  {
+    "sent": "It\u2019s totally natural.",
+    "NPs": [
+      "It"
+    ],
+    "NP_lists": [
+      [
+        "It"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP It))"
+    ]
+  },
+  {
+    "sent": "There\u2019s no mother ship hovering above the earth, waiting to carry you away, and no demon shooting light from beneath, signaling to pull you below.",
+    "NPs": [
+      "There",
+      "no mother ship",
+      "no demon",
+      "the earth",
+      "light",
+      "beneath",
+      "you",
+      "you"
+    ],
+    "NP_lists": [
+      [
+        "There"
+      ],
+      [
+        "no",
+        "mother",
+        "ship"
+      ],
+      [
+        "no",
+        "demon"
+      ],
+      [
+        "the",
+        "earth"
+      ],
+      [
+        "light"
+      ],
+      [
+        "beneath"
+      ],
+      [
+        "you"
+      ],
+      [
+        "you"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (EX There))",
+      "(NP (DT no) (NN mother) (NN ship))",
+      "(NP (DT no) (NN demon))",
+      "(NP (DT the) (NN earth))",
+      "(NP (NN light))",
+      "(NP (NN beneath))",
+      "(NP (PRP you))",
+      "(NP (PRP you))"
+    ]
+  },
+  {
+    "sent": "It\u2019s a light pillar \u2014 or a few of them \u2014 a colorful column of sparkling light that appears to beam up toward the sky.",
+    "NPs": [
+      "It",
+      "a light pillar",
+      "a colorful column",
+      "a few",
+      "sparkling light",
+      "them",
+      "the sky"
+    ],
+    "NP_lists": [
+      [
+        "It"
+      ],
+      [
+        "a",
+        "light",
+        "pillar"
+      ],
+      [
+        "a",
+        "colorful",
+        "column"
+      ],
+      [
+        "a",
+        "few"
+      ],
+      [
+        "sparkling",
+        "light"
+      ],
+      [
+        "them"
+      ],
+      [
+        "the",
+        "sky"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP It))",
+      "(NP (DT a) (JJ light) (NN pillar))",
+      "(NP (DT a) (JJ colorful) (NN column))",
+      "(NP (DT a) (JJ few))",
+      "(NP (VBG sparkling) (NN light))",
+      "(NP (PRP them))",
+      "(NP (DT the) (NN sky))"
+    ]
+  },
+  {
+    "sent": "It\u2019s all just an icy illusion.",
+    "NPs": [
+      "It"
+    ],
+    "NP_lists": [
+      [
+        "It"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP It))"
+    ]
+  },
+  {
+    "sent": "And now, during winter, when nights are long and cold, you have a good chance to spot one as long as conditions are right.",
+    "NPs": [
+      "you",
+      "winter",
+      "nights",
+      "one"
+    ],
+    "NP_lists": [
+      [
+        "you"
+      ],
+      [
+        "winter"
+      ],
+      [
+        "nights"
+      ],
+      [
+        "one"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP you))",
+      "(NP (NN winter))",
+      "(NP (NNS nights))",
+      "(NP (CD one))"
+    ]
+  },
+  {
+    "sent": "If you\u2019re lucky enough to spot a light pillar , what you\u2019re seeing is actually artificial light from a ground source reflecting off millions of floating ice crystals.",
+    "NPs": [
+      "you",
+      "you",
+      "artificial light",
+      "a ground source",
+      "millions",
+      "a light pillar",
+      "floating ice crystals"
+    ],
+    "NP_lists": [
+      [
+        "you"
+      ],
+      [
+        "you"
+      ],
+      [
+        "artificial",
+        "light"
+      ],
+      [
+        "a",
+        "ground",
+        "source"
+      ],
+      [
+        "millions"
+      ],
+      [
+        "a",
+        "light",
+        "pillar"
+      ],
+      [
+        "floating",
+        "ice",
+        "crystals"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP you))",
+      "(NP (PRP you))",
+      "(NP (JJ artificial) (NN light))",
+      "(NP (DT a) (NN ground) (NN source))",
+      "(NP (NNS millions))",
+      "(NP (DT a) (JJ light) (NN pillar))",
+      "(NP (VBG floating) (NN ice) (NNS crystals))"
+    ]
+  },
+  {
+    "sent": "\u201cIt\u2019s not an upward beam of light,\u201d said Les Cowley, a physicist who runs a website on atmospheric optics, or the way light travels through the atmosphere.",
+    "NPs": [
+      "It",
+      "Les Cowley",
+      "a physicist",
+      "an upward beam",
+      "light",
+      "a website",
+      "atmospheric optics",
+      "the way",
+      "light",
+      "the atmosphere"
+    ],
+    "NP_lists": [
+      [
+        "It"
+      ],
+      [
+        "Les",
+        "Cowley"
+      ],
+      [
+        "a",
+        "physicist"
+      ],
+      [
+        "an",
+        "upward",
+        "beam"
+      ],
+      [
+        "light"
+      ],
+      [
+        "a",
+        "website"
+      ],
+      [
+        "atmospheric",
+        "optics"
+      ],
+      [
+        "the",
+        "way"
+      ],
+      [
+        "light"
+      ],
+      [
+        "the",
+        "atmosphere"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP It))",
+      "(NP (NNP Les) (NNP Cowley))",
+      "(NP (DT a) (NN physicist))",
+      "(NP (DT an) (JJ upward) (NN beam))",
+      "(NP (NN light))",
+      "(NP (DT a) (NN website))",
+      "(NP (JJ atmospheric) (NNS optics))",
+      "(NP (DT the) (NN way))",
+      "(NP (NN light))",
+      "(NP (DT the) (NN atmosphere))"
+    ]
+  },
+  {
+    "sent": "\u201cAlthough they look pretty, they\u2019re also a sign that someone, somewhere could do better with their lighting.",
+    "NPs": [
+      "they",
+      "they",
+      "someone",
+      "somewhere",
+      "their lighting"
+    ],
+    "NP_lists": [
+      [
+        "they"
+      ],
+      [
+        "they"
+      ],
+      [
+        "someone"
+      ],
+      [
+        "somewhere"
+      ],
+      [
+        "their",
+        "lighting"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP they))",
+      "(NP (PRP they))",
+      "(NP (NN someone))",
+      "(NP (RB somewhere))",
+      "(NP (PRP$ their) (NN lighting))"
+    ]
+  },
+  {
+    "sent": "You might call them light pollution pillars if you wanted to be environmental about it.\u201d Light pillars occur when ice-containing clouds \u2014 normally miles high in the atmosphere \u2014 cling closer to the Earth\u2019s surface, just a hundred or a few thousand feet above it.",
+    "NPs": [
+      "You",
+      "Light pillars",
+      "them",
+      "light pollution pillars",
+      "you",
+      "ice",
+      "just a hundred or a few thousand feet",
+      "clouds",
+      "the Earth\u2019s surface",
+      "it",
+      "it",
+      "the atmosphere"
+    ],
+    "NP_lists": [
+      [
+        "You"
+      ],
+      [
+        "Light",
+        "pillars"
+      ],
+      [
+        "them"
+      ],
+      [
+        "light",
+        "pollution",
+        "pillars"
+      ],
+      [
+        "you"
+      ],
+      [
+        "ice"
+      ],
+      [
+        "just",
+        "a",
+        "hundred",
+        "or",
+        "a",
+        "few",
+        "thousand",
+        "feet"
+      ],
+      [
+        "clouds"
+      ],
+      [
+        "the",
+        "Earth",
+        "\u2019s",
+        "surface"
+      ],
+      [
+        "it"
+      ],
+      [
+        "it"
+      ],
+      [
+        "the",
+        "atmosphere"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP You))",
+      "(NP (JJ Light) (NNS pillars))",
+      "(NP (PRP them))",
+      "(NP (JJ light) (NN pollution) (NNS pillars))",
+      "(NP (PRP you))",
+      "(NP (NN ice))",
+      "(NP\n  (RB just)\n  (DT a)\n  (CD hundred)\n  (CC or)\n  (DT a)\n  (JJ few)\n  (CD thousand)\n  (NNS feet))",
+      "(NP (NNS clouds))",
+      "(NP (DT the) (NNP Earth) (NNP \u2019s) (NN surface))",
+      "(NP (PRP it))",
+      "(NP (PRP it))",
+      "(NP (DT the) (NN atmosphere))"
+    ]
+  },
+  {
+    "sent": "These thin clouds contain millions of flat, hexagonal crystals of ice that float horizontally in the air Each ice crystal acts like a mirror pointed downward, reflecting the artificial light back to your eyes \u2014 as long as the cloud is about halfway between you and the light source.",
+    "NPs": [
+      "These thin clouds",
+      "millions",
+      "flat , hexagonal crystals",
+      "ice",
+      "Each ice crystal",
+      "the air",
+      "a mirror",
+      "the artificial light"
+    ],
+    "NP_lists": [
+      [
+        "These",
+        "thin",
+        "clouds"
+      ],
+      [
+        "millions"
+      ],
+      [
+        "flat",
+        ",",
+        "hexagonal",
+        "crystals"
+      ],
+      [
+        "ice"
+      ],
+      [
+        "Each",
+        "ice",
+        "crystal"
+      ],
+      [
+        "the",
+        "air"
+      ],
+      [
+        "a",
+        "mirror"
+      ],
+      [
+        "the",
+        "artificial",
+        "light"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT These) (JJ thin) (NNS clouds))",
+      "(NP (NNS millions))",
+      "(NP (JJ flat) (, ,) (JJ hexagonal) (NNS crystals))",
+      "(NP (NN ice))",
+      "(NP (DT Each) (NN ice) (NN crystal))",
+      "(NP (DT the) (NN air))",
+      "(NP (DT a) (NN mirror))",
+      "(NP (DT the) (JJ artificial) (NN light))"
+    ]
+  },
+  {
+    "sent": "Together, the crystals form a cluster of mirrors floating at different heights, which allows you to see the light as a column; if they all were at the same level, you\u2019d see only a spot of light.",
+    "NPs": [
+      "the crystals",
+      "a cluster",
+      "mirrors",
+      "you",
+      "different heights",
+      "they",
+      "all",
+      "only a spot",
+      "you",
+      "the same level",
+      "light",
+      "the light",
+      "a column"
+    ],
+    "NP_lists": [
+      [
+        "the",
+        "crystals"
+      ],
+      [
+        "a",
+        "cluster"
+      ],
+      [
+        "mirrors"
+      ],
+      [
+        "you"
+      ],
+      [
+        "different",
+        "heights"
+      ],
+      [
+        "they"
+      ],
+      [
+        "all"
+      ],
+      [
+        "only",
+        "a",
+        "spot"
+      ],
+      [
+        "you"
+      ],
+      [
+        "the",
+        "same",
+        "level"
+      ],
+      [
+        "light"
+      ],
+      [
+        "the",
+        "light"
+      ],
+      [
+        "a",
+        "column"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT the) (NNS crystals))",
+      "(NP (DT a) (NN cluster))",
+      "(NP (NNS mirrors))",
+      "(NP (PRP you))",
+      "(NP (JJ different) (NNS heights))",
+      "(NP (PRP they))",
+      "(NP (DT all))",
+      "(NP (RB only) (DT a) (NN spot))",
+      "(NP (PRP you))",
+      "(NP (DT the) (JJ same) (NN level))",
+      "(NP (NN light))",
+      "(NP (DT the) (NN light))",
+      "(NP (DT a) (NN column))"
+    ]
+  },
+  {
+    "sent": "The pillars can be quite colorful at times because each reflected beam is the same color as its source.",
+    "NPs": [
+      "The pillars",
+      "times",
+      "each reflected beam",
+      "the same color",
+      "its source"
+    ],
+    "NP_lists": [
+      [
+        "The",
+        "pillars"
+      ],
+      [
+        "times"
+      ],
+      [
+        "each",
+        "reflected",
+        "beam"
+      ],
+      [
+        "the",
+        "same",
+        "color"
+      ],
+      [
+        "its",
+        "source"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT The) (NNS pillars))",
+      "(NP (NNS times))",
+      "(NP (DT each) (VBN reflected) (NN beam))",
+      "(NP (DT the) (JJ same) (NN color))",
+      "(NP (PRP$ its) (NN source))"
+    ]
+  },
+  {
+    "sent": "To find a good source \u2014 one bright, close to the ground, and just far enough away \u2014 your best bet is to travel a few miles outside your city or town on a dark night.",
+    "NPs": [
+      "your best bet",
+      "a good source",
+      "one",
+      "the ground",
+      "a few miles",
+      "a dark night",
+      "your city or town"
+    ],
+    "NP_lists": [
+      [
+        "your",
+        "best",
+        "bet"
+      ],
+      [
+        "a",
+        "good",
+        "source"
+      ],
+      [
+        "one"
+      ],
+      [
+        "the",
+        "ground"
+      ],
+      [
+        "a",
+        "few",
+        "miles"
+      ],
+      [
+        "a",
+        "dark",
+        "night"
+      ],
+      [
+        "your",
+        "city",
+        "or",
+        "town"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP$ your) (JJS best) (NN bet))",
+      "(NP (DT a) (JJ good) (NN source))",
+      "(NP (CD one))",
+      "(NP (DT the) (NN ground))",
+      "(NP (DT a) (JJ few) (NNS miles))",
+      "(NP (DT a) (JJ dark) (NN night))",
+      "(NP (PRP$ your) (NN city) (CC or) (NN town))"
+    ]
+  },
+  {
+    "sent": "The weather doesn\u2019t have to be frigid, but it helps.",
+    "NPs": [
+      "The weather",
+      "it",
+      "n\u2019t"
+    ],
+    "NP_lists": [
+      [
+        "The",
+        "weather"
+      ],
+      [
+        "it"
+      ],
+      [
+        "n\u2019t"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT The) (NN weather))",
+      "(NP (PRP it))",
+      "(NP (RB n\u2019t))"
+    ]
+  },
+  {
+    "sent": "Light pillars are frequently spotted in Scandinavia, upstate New York, Canada and other cold spots in the winter.",
+    "NPs": [
+      "Light pillars",
+      "Scandinavia",
+      "Canada",
+      "other cold spots",
+      "the winter",
+      "New York"
+    ],
+    "NP_lists": [
+      [
+        "Light",
+        "pillars"
+      ],
+      [
+        "Scandinavia"
+      ],
+      [
+        "Canada"
+      ],
+      [
+        "other",
+        "cold",
+        "spots"
+      ],
+      [
+        "the",
+        "winter"
+      ],
+      [
+        "New",
+        "York"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (JJ Light) (NNS pillars))",
+      "(NP (NNP Scandinavia))",
+      "(NP (NNP Canada))",
+      "(NP (JJ other) (JJ cold) (NNS spots))",
+      "(NP (DT the) (NN winter))",
+      "(NP (NNP New) (NNP York))"
+    ]
+  },
+  {
+    "sent": "But Dr. Cowley said that this week he received a photo of light pillars from about 30 miles outside of a town in Iran \u2014 perhaps because the desert can get cold at night.",
+    "NPs": [
+      "Dr. Cowley",
+      "this week",
+      "he",
+      "a photo",
+      "the desert",
+      "light pillars",
+      "about 30 miles",
+      "night",
+      "a town",
+      "Iran"
+    ],
+    "NP_lists": [
+      [
+        "Dr.",
+        "Cowley"
+      ],
+      [
+        "this",
+        "week"
+      ],
+      [
+        "he"
+      ],
+      [
+        "a",
+        "photo"
+      ],
+      [
+        "the",
+        "desert"
+      ],
+      [
+        "light",
+        "pillars"
+      ],
+      [
+        "about",
+        "30",
+        "miles"
+      ],
+      [
+        "night"
+      ],
+      [
+        "a",
+        "town"
+      ],
+      [
+        "Iran"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Dr.) (NNP Cowley))",
+      "(NP (DT this) (NN week))",
+      "(NP (PRP he))",
+      "(NP (DT a) (NN photo))",
+      "(NP (DT the) (NN desert))",
+      "(NP (JJ light) (NNS pillars))",
+      "(NP (QP (IN about) (CD 30)) (NNS miles))",
+      "(NP (NN night))",
+      "(NP (DT a) (NN town))",
+      "(NP (NNP Iran))"
+    ]
+  },
+  {
+    "sent": "If leaving the city is not an option, look up at streetlights on a freezing cold night.",
+    "NPs": [
+      "streetlights",
+      "a freezing cold night",
+      "an option",
+      "the city"
+    ],
+    "NP_lists": [
+      [
+        "streetlights"
+      ],
+      [
+        "a",
+        "freezing",
+        "cold",
+        "night"
+      ],
+      [
+        "an",
+        "option"
+      ],
+      [
+        "the",
+        "city"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNS streetlights))",
+      "(NP (DT a) (JJ freezing) (JJ cold) (NN night))",
+      "(NP (DT an) (NN option))",
+      "(NP (DT the) (NN city))"
+    ]
+  },
+  {
+    "sent": "You may spot the sparkly, ghostly blur of diamond dust.",
+    "NPs": [
+      "You",
+      "the sparkly , ghostly blur",
+      "diamond dust"
+    ],
+    "NP_lists": [
+      [
+        "You"
+      ],
+      [
+        "the",
+        "sparkly",
+        ",",
+        "ghostly",
+        "blur"
+      ],
+      [
+        "diamond",
+        "dust"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP You))",
+      "(NP (DT the) (JJ sparkly) (, ,) (RB ghostly) (NN blur))",
+      "(NP (NN diamond) (NN dust))"
+    ]
+  },
+  {
+    "sent": "This illusion is created by the same flat ice crystals that produce light pillars, but this time, they\u2019re so low to the ground you can feel them prickling your skin.",
+    "NPs": [
+      "This illusion",
+      "this time",
+      "they",
+      "you",
+      "the ground",
+      "the same flat ice crystals",
+      "them",
+      "your skin",
+      "light pillars"
+    ],
+    "NP_lists": [
+      [
+        "This",
+        "illusion"
+      ],
+      [
+        "this",
+        "time"
+      ],
+      [
+        "they"
+      ],
+      [
+        "you"
+      ],
+      [
+        "the",
+        "ground"
+      ],
+      [
+        "the",
+        "same",
+        "flat",
+        "ice",
+        "crystals"
+      ],
+      [
+        "them"
+      ],
+      [
+        "your",
+        "skin"
+      ],
+      [
+        "light",
+        "pillars"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT This) (NN illusion))",
+      "(NP (DT this) (NN time))",
+      "(NP (PRP they))",
+      "(NP (PRP you))",
+      "(NP (DT the) (NN ground))",
+      "(NP (DT the) (JJ same) (JJ flat) (NN ice) (NNS crystals))",
+      "(NP (PRP them))",
+      "(NP (PRP$ your) (NN skin))",
+      "(NP (JJ light) (NNS pillars))"
+    ]
+  },
+  {
+    "sent": "\u201cWhen that happens, you see other nearby halos, and it\u2019s quite a spectacular sight,\u201d Dr. Cowley said.",
+    "NPs": [
+      "Dr. Cowley",
+      "you",
+      "it",
+      "that",
+      "other nearby halos",
+      "quite a spectacular sight"
+    ],
+    "NP_lists": [
+      [
+        "Dr.",
+        "Cowley"
+      ],
+      [
+        "you"
+      ],
+      [
+        "it"
+      ],
+      [
+        "that"
+      ],
+      [
+        "other",
+        "nearby",
+        "halos"
+      ],
+      [
+        "quite",
+        "a",
+        "spectacular",
+        "sight"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Dr.) (NNP Cowley))",
+      "(NP (PRP you))",
+      "(NP (PRP it))",
+      "(NP (DT that))",
+      "(NP (JJ other) (JJ nearby) (NN halos))",
+      "(NP (PDT quite) (DT a) (JJ spectacular) (NN sight))"
+    ]
+  },
+  {
+    "sent": "SINCE 2001, when President Bush signed the federal No Child Left Behind law, schools in Connecticut have scrambled to revamp curriculums, step up professional development for teachers and continually assess students\u2019 test scores to comply with the law\u2019s requirements.",
+    "NPs": [
+      "2001",
+      "schools",
+      "Connecticut",
+      "President Bush",
+      "curriculums",
+      "professional development",
+      "students",
+      "teachers",
+      "the law"
+    ],
+    "NP_lists": [
+      [
+        "2001"
+      ],
+      [
+        "schools"
+      ],
+      [
+        "Connecticut"
+      ],
+      [
+        "President",
+        "Bush"
+      ],
+      [
+        "curriculums"
+      ],
+      [
+        "professional",
+        "development"
+      ],
+      [
+        "students"
+      ],
+      [
+        "teachers"
+      ],
+      [
+        "the",
+        "law"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (CD 2001))",
+      "(NP (NNS schools))",
+      "(NP (NNP Connecticut))",
+      "(NP (NNP President) (NNP Bush))",
+      "(NP (NNS curriculums))",
+      "(NP (JJ professional) (NN development))",
+      "(NP (NNS students))",
+      "(NP (NNS teachers))",
+      "(NP (DT the) (NN law))"
+    ]
+  },
+  {
+    "sent": "It is an effort that has dominated the agendas of school officials not just in Connecticut, but all over the nation, and not everyone is happy that test results have become such a focus.",
+    "NPs": [
+      "It",
+      "an effort",
+      "not everyone",
+      "the agendas",
+      "school officials",
+      "test results",
+      "Connecticut",
+      "the nation",
+      "such a focus"
+    ],
+    "NP_lists": [
+      [
+        "It"
+      ],
+      [
+        "an",
+        "effort"
+      ],
+      [
+        "not",
+        "everyone"
+      ],
+      [
+        "the",
+        "agendas"
+      ],
+      [
+        "school",
+        "officials"
+      ],
+      [
+        "test",
+        "results"
+      ],
+      [
+        "Connecticut"
+      ],
+      [
+        "the",
+        "nation"
+      ],
+      [
+        "such",
+        "a",
+        "focus"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP It))",
+      "(NP (DT an) (NN effort))",
+      "(NP (RB not) (NN everyone))",
+      "(NP (DT the) (NNS agendas))",
+      "(NP (NN school) (NNS officials))",
+      "(NP (NN test) (NNS results))",
+      "(NP (NNP Connecticut))",
+      "(NP (DT the) (NN nation))",
+      "(NP (PDT such) (DT a) (NN focus))"
+    ]
+  },
+  {
+    "sent": "When results of the latest test scores were announced a few weeks ago, about 40 percent, or 408, of the public schools in Connecticut did not make the grade under the federal law, state officials said.",
+    "NPs": [
+      "state officials",
+      "about 40 percent",
+      "408",
+      "the grade",
+      "results",
+      "the public schools",
+      "the federal law",
+      "the latest test scores",
+      "Connecticut"
+    ],
+    "NP_lists": [
+      [
+        "state",
+        "officials"
+      ],
+      [
+        "about",
+        "40",
+        "percent"
+      ],
+      [
+        "408"
+      ],
+      [
+        "the",
+        "grade"
+      ],
+      [
+        "results"
+      ],
+      [
+        "the",
+        "public",
+        "schools"
+      ],
+      [
+        "the",
+        "federal",
+        "law"
+      ],
+      [
+        "the",
+        "latest",
+        "test",
+        "scores"
+      ],
+      [
+        "Connecticut"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NN state) (NNS officials))",
+      "(NP (QP (RB about) (CD 40)) (NN percent))",
+      "(NP (CD 408))",
+      "(NP (DT the) (NN grade))",
+      "(NP (NNS results))",
+      "(NP (DT the) (JJ public) (NNS schools))",
+      "(NP (DT the) (JJ federal) (NN law))",
+      "(NP (DT the) (JJS latest) (NN test) (NNS scores))",
+      "(NP (NNP Connecticut))"
+    ]
+  },
+  {
+    "sent": "The state added 100 schools to its list of schools that failed to meet the federal benchmarks.",
+    "NPs": [
+      "The state",
+      "100 schools",
+      "its list",
+      "schools",
+      "the federal benchmarks"
+    ],
+    "NP_lists": [
+      [
+        "The",
+        "state"
+      ],
+      [
+        "100",
+        "schools"
+      ],
+      [
+        "its",
+        "list"
+      ],
+      [
+        "schools"
+      ],
+      [
+        "the",
+        "federal",
+        "benchmarks"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT The) (NN state))",
+      "(NP (CD 100) (NNS schools))",
+      "(NP (PRP$ its) (NN list))",
+      "(NP (NNS schools))",
+      "(NP (DT the) (JJ federal) (NNS benchmarks))"
+    ]
+  },
+  {
+    "sent": "Mark K. McQuillan, commissioner of education for Connecticut, said he does not believe the federal goals are attainable for Connecticut schools.",
+    "NPs": [
+      "Mark K. McQuillan",
+      "commissioner",
+      "education",
+      "Connecticut",
+      "he",
+      "the federal goals",
+      "Connecticut schools"
+    ],
+    "NP_lists": [
+      [
+        "Mark",
+        "K.",
+        "McQuillan"
+      ],
+      [
+        "commissioner"
+      ],
+      [
+        "education"
+      ],
+      [
+        "Connecticut"
+      ],
+      [
+        "he"
+      ],
+      [
+        "the",
+        "federal",
+        "goals"
+      ],
+      [
+        "Connecticut",
+        "schools"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Mark) (NNP K.) (NNP McQuillan))",
+      "(NP (NN commissioner))",
+      "(NP (NN education))",
+      "(NP (NNP Connecticut))",
+      "(NP (PRP he))",
+      "(NP (DT the) (JJ federal) (NNS goals))",
+      "(NP (NNP Connecticut) (NNS schools))"
+    ]
+  },
+  {
+    "sent": "\u201cI think they\u2019re just unrealistic,\u201d he said in an interview last week.",
+    "NPs": [
+      "he",
+      "I",
+      "last week",
+      "an interview",
+      "they"
+    ],
+    "NP_lists": [
+      [
+        "he"
+      ],
+      [
+        "I"
+      ],
+      [
+        "last",
+        "week"
+      ],
+      [
+        "an",
+        "interview"
+      ],
+      [
+        "they"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP he))",
+      "(NP (PRP I))",
+      "(NP (JJ last) (NN week))",
+      "(NP (DT an) (NN interview))",
+      "(NP (PRP they))"
+    ]
+  },
+  {
+    "sent": "\u201cAnd the evidence shows that\u2019s true everywhere in the country.",
+    "NPs": [
+      "\u201c",
+      "the evidence",
+      "\u2019s",
+      "the country"
+    ],
+    "NP_lists": [
+      [
+        "\u201c"
+      ],
+      [
+        "the",
+        "evidence"
+      ],
+      [
+        "\u2019s"
+      ],
+      [
+        "the",
+        "country"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NN \u201c))",
+      "(NP (DT the) (NN evidence))",
+      "(NP (NNP \u2019s))",
+      "(NP (DT the) (NN country))"
+    ]
+  },
+  {
+    "sent": "\u201cIt\u2019s too much to expect of the country to do that kind of fundamental changing in the time frame and with the dollars they\u2019ve provided,\u201d he said, referring to the federal government.",
+    "NPs": [
+      "he",
+      "It",
+      "too much",
+      "the federal government",
+      "the country",
+      "that kind",
+      "fundamental changing",
+      "the dollars",
+      "the time frame",
+      "they"
+    ],
+    "NP_lists": [
+      [
+        "he"
+      ],
+      [
+        "It"
+      ],
+      [
+        "too",
+        "much"
+      ],
+      [
+        "the",
+        "federal",
+        "government"
+      ],
+      [
+        "the",
+        "country"
+      ],
+      [
+        "that",
+        "kind"
+      ],
+      [
+        "fundamental",
+        "changing"
+      ],
+      [
+        "the",
+        "dollars"
+      ],
+      [
+        "the",
+        "time",
+        "frame"
+      ],
+      [
+        "they"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP he))",
+      "(NP (PRP It))",
+      "(NP (RB too) (JJ much))",
+      "(NP (DT the) (JJ federal) (NN government))",
+      "(NP (DT the) (NN country))",
+      "(NP (DT that) (NN kind))",
+      "(NP (JJ fundamental) (VBG changing))",
+      "(NP (DT the) (NNS dollars))",
+      "(NP (DT the) (NN time) (NN frame))",
+      "(NP (PRP they))"
+    ]
+  },
+  {
+    "sent": "The law calls for all students in the United States, including English language learners and students with special needs, to perform at grade level by 2014.",
+    "NPs": [
+      "The law",
+      "all students",
+      "the United States",
+      "English language learners",
+      "grade level",
+      "2014",
+      "students",
+      "special needs"
+    ],
+    "NP_lists": [
+      [
+        "The",
+        "law"
+      ],
+      [
+        "all",
+        "students"
+      ],
+      [
+        "the",
+        "United",
+        "States"
+      ],
+      [
+        "English",
+        "language",
+        "learners"
+      ],
+      [
+        "grade",
+        "level"
+      ],
+      [
+        "2014"
+      ],
+      [
+        "students"
+      ],
+      [
+        "special",
+        "needs"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT The) (NN law))",
+      "(NP (DT all) (NNS students))",
+      "(NP (DT the) (NNP United) (NNP States))",
+      "(NP (JJ English) (NN language) (NNS learners))",
+      "(NP (NN grade) (NN level))",
+      "(NP (CD 2014))",
+      "(NP (NNS students))",
+      "(NP (JJ special) (NNS needs))"
+    ]
+  },
+  {
+    "sent": "Some officials complain that because the standards are raised every two years, more and more schools are failing to fulfill the law\u2019s requirements.",
+    "NPs": [
+      "Some officials",
+      "more and more schools",
+      "the standards",
+      "every two years",
+      "the law\u2019s requirements"
+    ],
+    "NP_lists": [
+      [
+        "Some",
+        "officials"
+      ],
+      [
+        "more",
+        "and",
+        "more",
+        "schools"
+      ],
+      [
+        "the",
+        "standards"
+      ],
+      [
+        "every",
+        "two",
+        "years"
+      ],
+      [
+        "the",
+        "law",
+        "\u2019s",
+        "requirements"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT Some) (NNS officials))",
+      "(NP (ADJP (JJR more) (CC and) (JJR more)) (NNS schools))",
+      "(NP (DT the) (NNS standards))",
+      "(NP (DT every) (CD two) (NNS years))",
+      "(NP (DT the) (NN law) (NNP \u2019s) (NNS requirements))"
+    ]
+  },
+  {
+    "sent": "But that does not mean the state will not keep working hard to meet the goals, Mr. McQuillan said.",
+    "NPs": [
+      "Mr. McQuillan",
+      "that",
+      "the state",
+      "the goals"
+    ],
+    "NP_lists": [
+      [
+        "Mr.",
+        "McQuillan"
+      ],
+      [
+        "that"
+      ],
+      [
+        "the",
+        "state"
+      ],
+      [
+        "the",
+        "goals"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Mr.) (NNP McQuillan))",
+      "(NP (DT that))",
+      "(NP (DT the) (NN state))",
+      "(NP (DT the) (NNS goals))"
+    ]
+  },
+  {
+    "sent": "The State Department of Education has introduced a new accountability system that assigns teams and support personnel to struggling districts, and helps districts put improvement plans into action, state officials said.",
+    "NPs": [
+      "state officials",
+      "The State Department",
+      "Education",
+      "a new accountability system",
+      "districts",
+      "improvement plans",
+      "action",
+      "teams",
+      "support personnel",
+      "struggling districts"
+    ],
+    "NP_lists": [
+      [
+        "state",
+        "officials"
+      ],
+      [
+        "The",
+        "State",
+        "Department"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "a",
+        "new",
+        "accountability",
+        "system"
+      ],
+      [
+        "districts"
+      ],
+      [
+        "improvement",
+        "plans"
+      ],
+      [
+        "action"
+      ],
+      [
+        "teams"
+      ],
+      [
+        "support",
+        "personnel"
+      ],
+      [
+        "struggling",
+        "districts"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NN state) (NNS officials))",
+      "(NP (DT The) (NNP State) (NNP Department))",
+      "(NP (NNP Education))",
+      "(NP (DT a) (JJ new) (NN accountability) (NN system))",
+      "(NP (NNS districts))",
+      "(NP (NN improvement) (NNS plans))",
+      "(NP (NN action))",
+      "(NP (NNS teams))",
+      "(NP (VB support) (NNS personnel))",
+      "(NP (VBG struggling) (NNS districts))"
+    ]
+  },
+  {
+    "sent": "And the strategy is working in some districts.",
+    "NPs": [
+      "the strategy",
+      "some districts"
+    ],
+    "NP_lists": [
+      [
+        "the",
+        "strategy"
+      ],
+      [
+        "some",
+        "districts"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT the) (NN strategy))",
+      "(NP (DT some) (NNS districts))"
+    ]
+  },
+  {
+    "sent": "Two elementary schools in Norwalk found out that they had finally come off the list of schools \u201cin need of improvement.\u201d Brookside Elementary and Kendall Elementary schools were in a group of only five elementary schools statewide that improved enough to meet this year\u2019s standards.",
+    "NPs": [
+      "Two elementary schools",
+      "Norwalk",
+      "they",
+      "Brookside Elementary",
+      "Kendall Elementary schools",
+      "the list",
+      "a group",
+      "schools",
+      "only five elementary schools",
+      "need",
+      "improvement"
+    ],
+    "NP_lists": [
+      [
+        "Two",
+        "elementary",
+        "schools"
+      ],
+      [
+        "Norwalk"
+      ],
+      [
+        "they"
+      ],
+      [
+        "Brookside",
+        "Elementary"
+      ],
+      [
+        "Kendall",
+        "Elementary",
+        "schools"
+      ],
+      [
+        "the",
+        "list"
+      ],
+      [
+        "a",
+        "group"
+      ],
+      [
+        "schools"
+      ],
+      [
+        "only",
+        "five",
+        "elementary",
+        "schools"
+      ],
+      [
+        "need"
+      ],
+      [
+        "improvement"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (CD Two) (JJ elementary) (NNS schools))",
+      "(NP (NNP Norwalk))",
+      "(NP (PRP they))",
+      "(NP (NNP Brookside) (NNP Elementary))",
+      "(NP (NNP Kendall) (NNP Elementary) (NNS schools))",
+      "(NP (DT the) (NN list))",
+      "(NP (DT a) (NN group))",
+      "(NP (NNS schools))",
+      "(NP (QP (RB only) (CD five)) (JJ elementary) (NNS schools))",
+      "(NP (NN need))",
+      "(NP (NN improvement))"
+    ]
+  },
+  {
+    "sent": "Salvatore J. Corda, superintendent of Norwalk Public Schools, said the improvements came after systemic shifts in teaching and methodology that the district had been working on for a couple of years.",
+    "NPs": [
+      "Salvatore J. Corda",
+      "superintendent",
+      "Norwalk Public Schools",
+      "the improvements",
+      "systemic shifts",
+      "teaching and methodology",
+      "the district",
+      "a couple",
+      "years"
+    ],
+    "NP_lists": [
+      [
+        "Salvatore",
+        "J.",
+        "Corda"
+      ],
+      [
+        "superintendent"
+      ],
+      [
+        "Norwalk",
+        "Public",
+        "Schools"
+      ],
+      [
+        "the",
+        "improvements"
+      ],
+      [
+        "systemic",
+        "shifts"
+      ],
+      [
+        "teaching",
+        "and",
+        "methodology"
+      ],
+      [
+        "the",
+        "district"
+      ],
+      [
+        "a",
+        "couple"
+      ],
+      [
+        "years"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Salvatore) (NNP J.) (NNP Corda))",
+      "(NP (NN superintendent))",
+      "(NP (NNP Norwalk) (NNP Public) (NNP Schools))",
+      "(NP (DT the) (NNS improvements))",
+      "(NP (JJ systemic) (NNS shifts))",
+      "(NP (NN teaching) (CC and) (NN methodology))",
+      "(NP (DT the) (NN district))",
+      "(NP (DT a) (NN couple))",
+      "(NP (NNS years))"
+    ]
+  },
+  {
+    "sent": "\u201cWhen you try to move an entire system, it takes a while for things to take hold,\u201d he said.",
+    "NPs": [
+      "he",
+      "it",
+      "a while",
+      "you",
+      "things",
+      "hold",
+      "an entire system"
+    ],
+    "NP_lists": [
+      [
+        "he"
+      ],
+      [
+        "it"
+      ],
+      [
+        "a",
+        "while"
+      ],
+      [
+        "you"
+      ],
+      [
+        "things"
+      ],
+      [
+        "hold"
+      ],
+      [
+        "an",
+        "entire",
+        "system"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP he))",
+      "(NP (PRP it))",
+      "(NP (DT a) (NN while))",
+      "(NP (PRP you))",
+      "(NP (NNS things))",
+      "(NP (NN hold))",
+      "(NP (DT an) (JJ entire) (NN system))"
+    ]
+  },
+  {
+    "sent": "When Tony Ditrio took over as principal of Kendall Elementary School 10 years ago, his first piece of business was getting order in the building.",
+    "NPs": [
+      "his first piece",
+      "Tony Ditrio",
+      "business",
+      "order",
+      "the building",
+      "principal",
+      "Kendall Elementary School"
+    ],
+    "NP_lists": [
+      [
+        "his",
+        "first",
+        "piece"
+      ],
+      [
+        "Tony",
+        "Ditrio"
+      ],
+      [
+        "business"
+      ],
+      [
+        "order"
+      ],
+      [
+        "the",
+        "building"
+      ],
+      [
+        "principal"
+      ],
+      [
+        "Kendall",
+        "Elementary",
+        "School"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP$ his) (JJ first) (NN piece))",
+      "(NP (NNP Tony) (NNP Ditrio))",
+      "(NP (NN business))",
+      "(NP (NN order))",
+      "(NP (DT the) (NN building))",
+      "(NP (NN principal))",
+      "(NP (NNP Kendall) (NNP Elementary) (NNP School))"
+    ]
+  },
+  {
+    "sent": "\u201cThere wasn\u2019t any,\u201d he said.",
+    "NPs": [
+      "There",
+      "he",
+      "any"
+    ],
+    "NP_lists": [
+      [
+        "There"
+      ],
+      [
+        "he"
+      ],
+      [
+        "any"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (EX There))",
+      "(NP (PRP he))",
+      "(NP (DT any))"
+    ]
+  },
+  {
+    "sent": "\u201cThat took a few years.",
+    "NPs": [
+      "That",
+      "a few years"
+    ],
+    "NP_lists": [
+      [
+        "That"
+      ],
+      [
+        "a",
+        "few",
+        "years"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT That))",
+      "(NP (DT a) (JJ few) (NNS years))"
+    ]
+  },
+  {
+    "sent": "Once we had a safe, orderly environment, we started to tackle the curriculum.\u201d All of the most recent data is based on scores from testing of 230,000 third through eighth graders and 50,000 tenth graders last spring.",
+    "NPs": [
+      "we",
+      "we",
+      "All",
+      "a safe , orderly environment",
+      "the most recent data",
+      "the curriculum",
+      "scores",
+      "testing",
+      "230,000 third through eighth graders",
+      "50,000 tenth graders",
+      "last spring"
+    ],
+    "NP_lists": [
+      [
+        "we"
+      ],
+      [
+        "we"
+      ],
+      [
+        "All"
+      ],
+      [
+        "a",
+        "safe",
+        ",",
+        "orderly",
+        "environment"
+      ],
+      [
+        "the",
+        "most",
+        "recent",
+        "data"
+      ],
+      [
+        "the",
+        "curriculum"
+      ],
+      [
+        "scores"
+      ],
+      [
+        "testing"
+      ],
+      [
+        "230,000",
+        "third",
+        "through",
+        "eighth",
+        "graders"
+      ],
+      [
+        "50,000",
+        "tenth",
+        "graders"
+      ],
+      [
+        "last",
+        "spring"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP we))",
+      "(NP (PRP we))",
+      "(NP (DT All))",
+      "(NP (DT a) (JJ safe) (, ,) (JJ orderly) (NN environment))",
+      "(NP (DT the) (ADJP (RBS most) (JJ recent)) (NNS data))",
+      "(NP (DT the) (NN curriculum))",
+      "(NP (NNS scores))",
+      "(NP (NN testing))",
+      "(NP (CD 230,000) (RB third) (IN through) (JJ eighth) (NNS graders))",
+      "(NP (CD 50,000) (JJ tenth) (NNS graders))",
+      "(NP (JJ last) (NN spring))"
+    ]
+  },
+  {
+    "sent": "The latest results show that keeping children reading at grade level is \u201ca real and growing challenge,\u201d Mr. McQuillan said.",
+    "NPs": [
+      "Mr. McQuillan",
+      "The latest results",
+      "a real and growing challenge",
+      "children",
+      "grade level"
+    ],
+    "NP_lists": [
+      [
+        "Mr.",
+        "McQuillan"
+      ],
+      [
+        "The",
+        "latest",
+        "results"
+      ],
+      [
+        "a",
+        "real",
+        "and",
+        "growing",
+        "challenge"
+      ],
+      [
+        "children"
+      ],
+      [
+        "grade",
+        "level"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Mr.) (NNP McQuillan))",
+      "(NP (DT The) (JJS latest) (NNS results))",
+      "(NP (DT a) (ADJP (JJ real) (CC and) (VBG growing)) (NN challenge))",
+      "(NP (NNS children))",
+      "(NP (NN grade) (NN level))"
+    ]
+  },
+  {
+    "sent": "At the high school level, he said, \u201cmathematics is the greater issue.\u201d This year, for the first time, the Greenwich school district as a whole did not make adequate yearly progress.",
+    "NPs": [
+      "mathematics",
+      "This year",
+      "the high school level",
+      "he",
+      "the greater issue",
+      "the first time",
+      "the Greenwich school district",
+      "a whole",
+      "adequate yearly progress"
+    ],
+    "NP_lists": [
+      [
+        "mathematics"
+      ],
+      [
+        "This",
+        "year"
+      ],
+      [
+        "the",
+        "high",
+        "school",
+        "level"
+      ],
+      [
+        "he"
+      ],
+      [
+        "the",
+        "greater",
+        "issue"
+      ],
+      [
+        "the",
+        "first",
+        "time"
+      ],
+      [
+        "the",
+        "Greenwich",
+        "school",
+        "district"
+      ],
+      [
+        "a",
+        "whole"
+      ],
+      [
+        "adequate",
+        "yearly",
+        "progress"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NN mathematics))",
+      "(NP (DT This) (NN year))",
+      "(NP (DT the) (JJ high) (NN school) (NN level))",
+      "(NP (PRP he))",
+      "(NP (DT the) (JJR greater) (NN issue))",
+      "(NP (DT the) (JJ first) (NN time))",
+      "(NP (DT the) (NNP Greenwich) (NN school) (NN district))",
+      "(NP (DT a) (NN whole))",
+      "(NP (JJ adequate) (JJ yearly) (NN progress))"
+    ]
+  },
+  {
+    "sent": "The district is one of 44 of the state\u2019s 171 districts that did not meet this year\u2019s standards.",
+    "NPs": [
+      "The district",
+      "one",
+      "44",
+      "the state\u2019s",
+      "this year\u2019s standards"
+    ],
+    "NP_lists": [
+      [
+        "The",
+        "district"
+      ],
+      [
+        "one"
+      ],
+      [
+        "44"
+      ],
+      [
+        "the",
+        "state",
+        "\u2019s"
+      ],
+      [
+        "this",
+        "year",
+        "\u2019s",
+        "standards"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT The) (NN district))",
+      "(NP (CD one))",
+      "(NP (CD 44))",
+      "(NP (DT the) (NN state) (NNP \u2019s))",
+      "(NP (DT this) (NN year) (NNP \u2019s) (NNS standards))"
+    ]
+  },
+  {
+    "sent": "Districts are considered not making adequate progress when certain student groups fail to meet benchmarks in the same category on both the elementary and high school tests.",
+    "NPs": [
+      "Districts",
+      "adequate progress",
+      "certain student groups",
+      "benchmarks",
+      "both the elementary and high school tests",
+      "the same category"
+    ],
+    "NP_lists": [
+      [
+        "Districts"
+      ],
+      [
+        "adequate",
+        "progress"
+      ],
+      [
+        "certain",
+        "student",
+        "groups"
+      ],
+      [
+        "benchmarks"
+      ],
+      [
+        "both",
+        "the",
+        "elementary",
+        "and",
+        "high",
+        "school",
+        "tests"
+      ],
+      [
+        "the",
+        "same",
+        "category"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNS Districts))",
+      "(NP (JJ adequate) (NN progress))",
+      "(NP (JJ certain) (NN student) (NNS groups))",
+      "(NP (NNS benchmarks))",
+      "(NP\n  (CC both)\n  (DT the)\n  (JJ elementary)\n  (CC and)\n  (JJ high)\n  (NN school)\n  (NNS tests))",
+      "(NP (DT the) (JJ same) (NN category))"
+    ]
+  },
+  {
+    "sent": "Students with disabilities and economically disadvantaged students in Greenwich did not score at grade level in both reading and math.",
+    "NPs": [
+      "Students",
+      "disabilities",
+      "economically disadvantaged students",
+      "Greenwich",
+      "grade level",
+      "both reading and math"
+    ],
+    "NP_lists": [
+      [
+        "Students"
+      ],
+      [
+        "disabilities"
+      ],
+      [
+        "economically",
+        "disadvantaged",
+        "students"
+      ],
+      [
+        "Greenwich"
+      ],
+      [
+        "grade",
+        "level"
+      ],
+      [
+        "both",
+        "reading",
+        "and",
+        "math"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNS Students))",
+      "(NP (NNS disabilities))",
+      "(NP (ADJP (RB economically) (JJ disadvantaged)) (NNS students))",
+      "(NP (NNP Greenwich))",
+      "(NP (NN grade) (NN level))",
+      "(NP (DT both) (NN reading) (CC and) (NN math))"
+    ]
+  },
+  {
+    "sent": "\u201cDoes this mean we have a bad school system?\u201d said Betty J. Sternberg, superintendent of Greenwich Public Schools.",
+    "NPs": [
+      "\u201c",
+      "this",
+      "Betty J. Sternberg",
+      "superintendent",
+      "we",
+      "Greenwich Public Schools",
+      "a bad school system"
+    ],
+    "NP_lists": [
+      [
+        "\u201c"
+      ],
+      [
+        "this"
+      ],
+      [
+        "Betty",
+        "J.",
+        "Sternberg"
+      ],
+      [
+        "superintendent"
+      ],
+      [
+        "we"
+      ],
+      [
+        "Greenwich",
+        "Public",
+        "Schools"
+      ],
+      [
+        "a",
+        "bad",
+        "school",
+        "system"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NN \u201c))",
+      "(NP (DT this))",
+      "(NP (NNP Betty) (NNP J.) (NNP Sternberg))",
+      "(NP (NN superintendent))",
+      "(NP (PRP we))",
+      "(NP (NNP Greenwich) (NNP Public) (NNPS Schools))",
+      "(NP (DT a) (JJ bad) (NN school) (NN system))"
+    ]
+  },
+  {
+    "sent": "\u201cThe strength of a school system does lie in meeting the needs of each child, no matter what their background is.",
+    "NPs": [
+      "The strength",
+      "a school system",
+      "the needs",
+      "each child"
+    ],
+    "NP_lists": [
+      [
+        "The",
+        "strength"
+      ],
+      [
+        "a",
+        "school",
+        "system"
+      ],
+      [
+        "the",
+        "needs"
+      ],
+      [
+        "each",
+        "child"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT The) (NN strength))",
+      "(NP (DT a) (NN school) (NN system))",
+      "(NP (DT the) (NNS needs))",
+      "(NP (DT each) (NN child))"
+    ]
+  },
+  {
+    "sent": "So to that extent if I\u2019m a parent of a child in a subgroup that hasn\u2019t met it,\u201d she said, referring to the standards, \u201cI would be concerned.\u201d Special education students should not be expected to perform at grade level, Dr. Sternberg said.",
+    "NPs": [
+      "Dr. Sternberg",
+      "that extent",
+      "she",
+      "I",
+      "I",
+      "a parent",
+      "Special education students",
+      "a child",
+      "a subgroup",
+      "the standards",
+      "it",
+      "grade level"
+    ],
+    "NP_lists": [
+      [
+        "Dr.",
+        "Sternberg"
+      ],
+      [
+        "that",
+        "extent"
+      ],
+      [
+        "she"
+      ],
+      [
+        "I"
+      ],
+      [
+        "I"
+      ],
+      [
+        "a",
+        "parent"
+      ],
+      [
+        "Special",
+        "education",
+        "students"
+      ],
+      [
+        "a",
+        "child"
+      ],
+      [
+        "a",
+        "subgroup"
+      ],
+      [
+        "the",
+        "standards"
+      ],
+      [
+        "it"
+      ],
+      [
+        "grade",
+        "level"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Dr.) (NNP Sternberg))",
+      "(NP (DT that) (NN extent))",
+      "(NP (PRP she))",
+      "(NP (PRP I))",
+      "(NP (PRP I))",
+      "(NP (DT a) (NN parent))",
+      "(NP (JJ Special) (NN education) (NNS students))",
+      "(NP (DT a) (NN child))",
+      "(NP (DT a) (NN subgroup))",
+      "(NP (DT the) (NNS standards))",
+      "(NP (PRP it))",
+      "(NP (NN grade) (NN level))"
+    ]
+  },
+  {
+    "sent": "\u201cWe\u2019ve had reports of special ed students sitting in front of tests and they\u2019re crying.",
+    "NPs": [
+      "they",
+      "We",
+      "reports",
+      "special ed students",
+      "front",
+      "tests"
+    ],
+    "NP_lists": [
+      [
+        "they"
+      ],
+      [
+        "We"
+      ],
+      [
+        "reports"
+      ],
+      [
+        "special",
+        "ed",
+        "students"
+      ],
+      [
+        "front"
+      ],
+      [
+        "tests"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP they))",
+      "(NP (PRP We))",
+      "(NP (NNS reports))",
+      "(NP (JJ special) (NN ed) (NNS students))",
+      "(NP (NN front))",
+      "(NP (NNS tests))"
+    ]
+  },
+  {
+    "sent": "They can\u2019t possibly do it,\u201d she said.",
+    "NPs": [
+      "she",
+      "They",
+      "it"
+    ],
+    "NP_lists": [
+      [
+        "she"
+      ],
+      [
+        "They"
+      ],
+      [
+        "it"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP she))",
+      "(NP (PRP They))",
+      "(NP (PRP it))"
+    ]
+  },
+  {
+    "sent": "Additionally, testing students every year between third and eighth grade leaves schools inundated with data that needs to be analyzed and reported, said Dr. Sternberg, who served as Connecticut\u2019s commissioner for education from 2003 to 2006.",
+    "NPs": [
+      "Dr. Sternberg",
+      "testing students",
+      "every year",
+      "schools",
+      "third and eighth grade",
+      "Connecticut\u2019s commissioner",
+      "education",
+      "data",
+      "2003",
+      "2006"
+    ],
+    "NP_lists": [
+      [
+        "Dr.",
+        "Sternberg"
+      ],
+      [
+        "testing",
+        "students"
+      ],
+      [
+        "every",
+        "year"
+      ],
+      [
+        "schools"
+      ],
+      [
+        "third",
+        "and",
+        "eighth",
+        "grade"
+      ],
+      [
+        "Connecticut",
+        "\u2019s",
+        "commissioner"
+      ],
+      [
+        "education"
+      ],
+      [
+        "data"
+      ],
+      [
+        "2003"
+      ],
+      [
+        "2006"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Dr.) (NNP Sternberg))",
+      "(NP (NN testing) (NNS students))",
+      "(NP (DT every) (NN year))",
+      "(NP (NNS schools))",
+      "(NP (JJ third) (CC and) (JJ eighth) (NN grade))",
+      "(NP (NNP Connecticut) (NNP \u2019s) (NN commissioner))",
+      "(NP (NN education))",
+      "(NP (NNS data))",
+      "(NP (CD 2003))",
+      "(NP (CD 2006))"
+    ]
+  },
+  {
+    "sent": "While some teachers and school administrators complain about the tests, others say the law has forced them to take action.",
+    "NPs": [
+      "others",
+      "some teachers and school administrators",
+      "the law",
+      "the tests",
+      "them",
+      "action"
+    ],
+    "NP_lists": [
+      [
+        "others"
+      ],
+      [
+        "some",
+        "teachers",
+        "and",
+        "school",
+        "administrators"
+      ],
+      [
+        "the",
+        "law"
+      ],
+      [
+        "the",
+        "tests"
+      ],
+      [
+        "them"
+      ],
+      [
+        "action"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNS others))",
+      "(NP\n  (DT some)\n  (NNS teachers)\n  (CC and)\n  (NN school)\n  (NNS administrators))",
+      "(NP (DT the) (NN law))",
+      "(NP (DT the) (NNS tests))",
+      "(NP (PRP them))",
+      "(NP (NN action))"
+    ]
+  },
+  {
+    "sent": "\u201cNo Child Left Behind has been a really good kick in the pants for us,\u201d said Joshua P. Starr, superintendent of schools in Stamford.",
+    "NPs": [
+      "Joshua P. Starr",
+      "superintendent",
+      "a really good kick",
+      "Behind",
+      "the pants",
+      "us",
+      "schools",
+      "Stamford"
+    ],
+    "NP_lists": [
+      [
+        "Joshua",
+        "P.",
+        "Starr"
+      ],
+      [
+        "superintendent"
+      ],
+      [
+        "a",
+        "really",
+        "good",
+        "kick"
+      ],
+      [
+        "Behind"
+      ],
+      [
+        "the",
+        "pants"
+      ],
+      [
+        "us"
+      ],
+      [
+        "schools"
+      ],
+      [
+        "Stamford"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (NNP Joshua) (NNP P.) (NNP Starr))",
+      "(NP (NN superintendent))",
+      "(NP (DT a) (ADJP (RB really) (JJ good)) (NN kick))",
+      "(NP (NNP Behind))",
+      "(NP (DT the) (NNS pants))",
+      "(NP (PRP us))",
+      "(NP (NNS schools))",
+      "(NP (NNP Stamford))"
+    ]
+  },
+  {
+    "sent": "\u201cIt was too easy to sweep some kids under the rug.",
+    "NPs": [
+      "It",
+      "some kids",
+      "the rug"
+    ],
+    "NP_lists": [
+      [
+        "It"
+      ],
+      [
+        "some",
+        "kids"
+      ],
+      [
+        "the",
+        "rug"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP It))",
+      "(NP (DT some) (NNS kids))",
+      "(NP (DT the) (NN rug))"
+    ]
+  },
+  {
+    "sent": "We\u2019re not allowed to do that anymore, and that\u2019s a good thing.\u201d Connecticut\u2019s attorney general, Richard Blumenthal, sued the Bush administration in 2005, charging that No Child Left Behind illegally requires states to spend their own money to meet the law\u2019s standards.",
+    "NPs": [
+      "We",
+      "a good thing",
+      "Richard Blumenthal",
+      "the Bush administration",
+      "2005",
+      "that",
+      "No Child",
+      "states",
+      "their own money",
+      "the law\u2019s standards"
+    ],
+    "NP_lists": [
+      [
+        "We"
+      ],
+      [
+        "a",
+        "good",
+        "thing"
+      ],
+      [
+        "Richard",
+        "Blumenthal"
+      ],
+      [
+        "the",
+        "Bush",
+        "administration"
+      ],
+      [
+        "2005"
+      ],
+      [
+        "that"
+      ],
+      [
+        "No",
+        "Child"
+      ],
+      [
+        "states"
+      ],
+      [
+        "their",
+        "own",
+        "money"
+      ],
+      [
+        "the",
+        "law",
+        "\u2019s",
+        "standards"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (PRP We))",
+      "(NP (DT a) (JJ good) (NN thing))",
+      "(NP (NNP Richard) (NNP Blumenthal))",
+      "(NP (DT the) (NNP Bush) (NN administration))",
+      "(NP (CD 2005))",
+      "(NP (DT that))",
+      "(NP (DT No) (NN Child))",
+      "(NP (NNS states))",
+      "(NP (PRP$ their) (JJ own) (NN money))",
+      "(NP (DT the) (NN law) (NNP \u2019s) (NNS standards))"
+    ]
+  },
+  {
+    "sent": "A federal judge threw out the case last April, and Mr. Blumenthal is appealing that decision.",
+    "NPs": [
+      "A federal judge",
+      "Mr. Blumenthal",
+      "the case",
+      "last April",
+      "that decision"
+    ],
+    "NP_lists": [
+      [
+        "A",
+        "federal",
+        "judge"
+      ],
+      [
+        "Mr.",
+        "Blumenthal"
+      ],
+      [
+        "the",
+        "case"
+      ],
+      [
+        "last",
+        "April"
+      ],
+      [
+        "that",
+        "decision"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT A) (JJ federal) (NN judge))",
+      "(NP (NNP Mr.) (NNP Blumenthal))",
+      "(NP (DT the) (NN case))",
+      "(NP (JJ last) (NNP April))",
+      "(NP (DT that) (NN decision))"
+    ]
+  },
+  {
+    "sent": "The state\u2019s appeal is likely to be argued next spring, according to Mr. Blumenthal\u2019s staff.",
+    "NPs": [
+      "The state\u2019s appeal",
+      "next spring",
+      "Mr. Blumenthal\u2019s staff"
+    ],
+    "NP_lists": [
+      [
+        "The",
+        "state",
+        "\u2019s",
+        "appeal"
+      ],
+      [
+        "next",
+        "spring"
+      ],
+      [
+        "Mr.",
+        "Blumenthal",
+        "\u2019s",
+        "staff"
+      ]
+    ],
+    "NP_subtrees": [
+      "(NP (DT The) (NN state) (NNP \u2019s) (NN appeal))",
+      "(NP (JJ next) (NN spring))",
+      "(NP (NNP Mr.) (NNP Blumenthal) (NNP \u2019s) (NN staff))"
+    ]
+  }
+]
